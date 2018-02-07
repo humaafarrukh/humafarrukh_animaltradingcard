@@ -9,6 +9,7 @@
     border-radius: 20px;
     background: linear-gradient(#B35D46, #F2C94C, #82764D);
     color:white;
+    border: 2px solid #F2C94C;
         
 }
   img {
